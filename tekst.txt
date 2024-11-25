@@ -1,0 +1,61 @@
+                            26.11.2024
+
+JavaScript – bu dunyodagi eng mashhur dasturlash tillaridan biri bo‘lib, veb-sahifalarni dinamik qilish, foydalanuvchi bilan o‘zaro aloqani yaxshilash va veb-ilovalarni rivojlantirishda keng qo‘llaniladi.
+
+-JavaScript kodini HTML faylga kiritish uchun <script> tegidan foydalaniladi;
+-// Bu kommentariya
+-/*
+   Bu ko‘p qatorli
+   kommentariya
+*/
+
+Console.log -  bu JavaScriptda brauzerning konsoliga ma'lumot chiqarish uchun ishlatiladigan funksiyadir. Bu dasturchilar uchun kodni tekshirish, sinovdan o'tkazish va xatolarni aniqlashda juda foydali vosita.
+
+Prompt — JavaScriptda foydalanuvchidan ma'lumot olish uchun ishlatiladigan funksiyadir. Bu funksiya ishlatilganda, brauzerda kichik dialog oynasi yani(modal) paydo bo'ladi va foydalanuvchi ushbu oynaga ma'lumot kiritishi mumkin.
+
+
+-JavaScriptda o‘zgaruvchilarni e’lon qilish uchun var, let, va const kalit so‘zlari ishlatiladi. 
+5.Varning ichidagi qiymatini ozgartirib boladi
+4.Constda esa bolmaydi - ozgarmas qiymati
+3.var - eski usul, global amal qiladi
+
+
+-JavaScriptda ma'lumot turlari 
+Primitive
+1.String (matn);
+2.Number(raqam);
+3.Null - bosh qiymat;
+4.Undifined - qiymat belgilanmagan;
+6.Boolean mantiqiy (true, false);
+7.Nan
+8.BigInt
+9.Symbol
+
+No-Primitive
+1.Object - murakkab tuzilmalar;
+2.Object
+3.Array
+4.Function
+
+
+
+-JavaScriptdagi Operatorlar
+
+Arifmetik operatorlar:
+Qo‘shish: +;
+Ayirish: -;
+Ko‘paytirish: *;
+Bo‘lish: /;
+Qoldiq: %;
+
+
+Mantiqiy operatorlar:
+va: &&;
+yoki: ||;
+emas: !;
+
+
+Taqqoslash operatorlari:;
+Tengmi: ==;
+Katta yoki teng: >=;
+Qattiq tenglik: === (ma’lumot turi ham solishtiriladi);
